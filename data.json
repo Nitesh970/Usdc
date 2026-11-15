@@ -1,0 +1,34 @@
+{
+  "seed_version": 1,
+  "bot_admin": [
+    5028581330
+  ],
+  "block_url": "https://polygonscan.com/tx/",
+  "bot_cur": "TOKEN",
+  "token_contract": "",
+  "token_symbol": "",
+  "token_name": "",
+  "token_decimals": 18,
+  "rpc_url": "",
+  "bonus": 0.1,
+  "reffer_bonus": 0.5,
+  "min_wd": 2,
+  "address": "🏁 Great. Lastly, please submit your <b>USDC (Polygon)</b> wallet address (Format should be 0x + 40 characters hexadecimal)\n\n<b>Note:</b> Please do not use any exchange wallet address (Recommended wallet: Metamask, Trust wallet).",
+  "welcome": "<b>✨ Welcome to our Airdrop 🚀</b>\n\n<b>🎁 Bonus: </b>0.1\n<b>👫 Refer: </b>0.5 per referral\n<b>📤 Minimum withdraw: </b>2\n\nPress <b>\"✅ Join Airdrop\"</b> to register and submit your wallet address.\n\n<i>(Admin: edit this text in /admin → Welcome Message)</i>",
+  "info": "ℹ️ <b>Token Information</b>\n\nAdmin: set this text in /admin → Information.",
+  "check": [],
+  "but": [
+    [
+      "📊 Statistics",
+      "📤 Withdraw"
+    ],
+    [
+      "ℹ️ Information"
+    ]
+  ],
+  "payout": "@TonOfficials",
+  "bot": true,
+  "bot_text": "Bot is <b>Turned Off</b>",
+  "broad_speed": 66.66666666666667,
+  "with_type": "auto-instant"
+}
